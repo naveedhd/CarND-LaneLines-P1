@@ -43,7 +43,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 Example of image after passing through the pipeline looks like following: 
 
-![lane_image][image1]
+![lane_image][lane_image]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
